@@ -10,7 +10,13 @@
   
 <div align="center"><br>
   <a href="https://github.com/arligreicy"></a>
+  
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=arligreicy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github"/><br>
+  
+  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=arligreicy&show_icons=true&theme=radical)
+
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arligreicy&theme=radical&layout=compact)
+
 </div>
 
 ## Minhas Skills
@@ -46,9 +52,4 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Viva+e+Prospere!;" />
 </h1>
 
-<div align="center">
-  
-  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=arligreicy&show_icons=true&theme=radical)
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arligreicy&theme=radical&layout=compact)
-</div>
