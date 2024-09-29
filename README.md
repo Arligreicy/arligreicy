@@ -10,10 +10,8 @@
   
 <div align="center"><br>
   <a href="https://github.com/arligreicy"></a>
-  
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=arligreicy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github"/><br>
-  
-  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=arligreicy&show_icons=true&theme=radical)
+      
+  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=arligreicy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github)
 
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arligreicy&theme=radical&layout=compact)
 
