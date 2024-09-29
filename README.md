@@ -1,6 +1,8 @@
 <div align="center">
   <h1>Olá, Tudo bem? Seja bem-vindo!</h1>
+  
   ![](https://komarev.com/ghpvc/?username=arligreicy)
+  
 </div>
 
 - 🌱 Estudando Sistemas para Internet
@@ -45,6 +47,8 @@
 </h1>
 
 <div align="center">
+  
   ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=arligreicy&show_icons=true&theme=radical)
+
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arligreicy&theme=radical&layout=compact)
 </div>
