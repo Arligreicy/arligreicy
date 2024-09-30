@@ -12,7 +12,7 @@
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arligreicy&show_icons=true&theme=tokyonight&count_private=true&hide_title=true)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arligreicy&show_icons=true&theme=tokyonight&count_private=true&hide_title=true&rank_icon=github)
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arligreicy&theme=tokyonight&layout=compact&hide_title=true)
   
