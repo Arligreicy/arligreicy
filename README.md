@@ -7,6 +7,7 @@
 
 - 🌱 **Estudando** Sistemas para Internet
 - 😄 **Pronouns:** ela/dela
+- **Em melhoria contínua**
   
 ---
 
