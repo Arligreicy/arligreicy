@@ -5,7 +5,7 @@
   
 </div>
 
-- 🌱 **Estudando** Sistemas para Internet
+- 🌱 **Tecnóloga em Sistemas para Internet**
 - 😄 **Em melhoria contínua**
 
   
