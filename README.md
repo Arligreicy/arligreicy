@@ -5,10 +5,16 @@
   
 </div>
 
-- 🌱 **Tecnóloga em Sistemas para Internet**
-- 😄 **Em melhoria contínua**
+### 😄 Sobre mim
 
-  
+- 🎓 **Tecnóloga em Sistemas para Internet**
+- 🎓 **Cursando Pós-Graduação em Data Mining e Cibersegurança**
+- 💡 **Apaixonada por criar soluções práticas e intuitivas**
+- 🔄 **Em constante evolução — sempre aprendendo algo novo**
+- 👩‍💻 Atualmente focada em projetos web com **PHP, CodeIgniter e JavaScript**
+- 💬 Amo compartilhar conhecimento e trocar ideias!
+- 🌱 **Em melhoria contínua**
+
 ---
 
 <div align="center">
