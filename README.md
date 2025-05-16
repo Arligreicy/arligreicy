@@ -13,7 +13,6 @@
 - 🔄 **Em constante evolução — sempre aprendendo algo novo**
 - 👩‍💻 Atualmente focada em projetos web com **PHP, CodeIgniter e JavaScript**
 - 💬 Amo compartilhar conhecimento e trocar ideias!
-- 🌱 **Em melhoria contínua**
 
 ---
 
