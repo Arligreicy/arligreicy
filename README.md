@@ -48,15 +48,10 @@
 
 ## 📊 Estatísticas
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=arligreicy&show_icons=true&theme=tokyonight&rank_icon=github&hide_title=true&count_private=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arligreicy&layout=compact&theme=tokyonight&hide_title=true" />
-
-</div>
-
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arligreicy&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arligreicy&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" height="180">
+</p>
 
 ## 📬 Entre em Contato
 
